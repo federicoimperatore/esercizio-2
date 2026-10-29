@@ -1,0 +1,19 @@
+input.onButtonPressed(Button.A, function () {
+    basic.showIcon(IconNames.SmallDiamond)
+})
+input.onButtonPressed(Button.AB, function () {
+    basic.showIcon(IconNames.Square)
+})
+input.onButtonPressed(Button.B, function () {
+    basic.showIcon(IconNames.Yes)
+})
+basic.showLeds(`
+    . . . . .
+    . . . . .
+    . . # . .
+    . . . . .
+    . . . . .
+    `)
+basic.forever(function () {
+	
+})

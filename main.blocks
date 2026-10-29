@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="i4Z926/{OK5wd:8d(xP}" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id=")%BW+G!d}sWb+8ag$a_["><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_forever" id="53UDA/*jd6{0p*+0*A{m" x="461" y="-2"></block><block type="device_button_event" id="*Tkz:Z1k^9A9ApYERSny" x="215" y="90"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="~A%3VYN:M_3.9WSG^h74"><field name="i">IconNames.SmallDiamond</field></block></statement></block><block type="device_button_event" id="0,aO6b)$}Nye7UL8]8nE" x="-11" y="393"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="basic_show_icon" id="_Mb{=;J)_3ttU#z`ci`n"><field name="i">IconNames.Square</field></block></statement></block><block type="device_button_event" id="Q-}Cj}U$ARq)O)inh8Pv" x="299" y="391"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id=":yx6J?.R6ajYp}i_aE7+"><field name="i">IconNames.Yes</field></block></statement></block></xml>
